@@ -170,6 +170,7 @@ Building modern web applications demands the right set of tools. With an abundan
 | 16. | [**react-chartjs-2**](https://github.com/jerairrest/react-chartjs-2) | React wrapper for Chart.js, a popular charting library. | React.js |
 | 17. | [**Nivo**](https://github.com/plouc/nivo) | Nivo provides supercharged React components to easily build dataviz apps, built on top of d3. | React |
 | 18. | [**vue-chartjs**](https://github.com/apertureless/vue-chartjs) | Vue.js wrapper for Chart.js, providing reactive charts. | Vue.js |
+| 19. | [**DHTMLX Charts**](https://dhtmlx.com/docs/products/dhtmlxChart/) | JavaScript/HTML5 charting library for crafting dynamic and highly customizable charts with minimum coding. | JavaScript | 
 
 <div align="right">
 
